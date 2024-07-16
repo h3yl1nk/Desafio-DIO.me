@@ -1,0 +1,109 @@
+body{
+background-color:#f7f7f7;
+}
+
+.menu{
+position: relative;
+
+}
+
+.titulo_conteudo {
+margin-left:200px;
+
+}
+.conteudo{
+margin-left:200px;
+font-size: 25px;
+}
+
+
+.rodapé {
+margin-left:200px;
+position:unset;
+
+
+}
+
+.imagem_cabeçalho{
+width: 75%;
+height: 225px;
+position: relative;
+margin-left: 280px;
+
+}
+
+.botão_navegação{
+cursor: pointer;
+display: flex;
+}
+
+.tabela_conteudo{
+margin-left:200px;
+
+}
+
+.table {
+width: 50%;
+border-collapse:separate;
+margin-left:200px;
+}
+
+.th, td {
+border: 2px solid #000000;
+padding: 8px;
+text-align: left;
+}
+
+
+.imagem_cabeçalho3{
+width: 25%;
+margin-left:800px;
+
+}
+
+.extras_do_conteudo{
+margin-left:200px;
+position: relative;
+}
+
+.Iframe_do_conteudo{
+margin-left:800px;
+position:relative;
+
+}
+
+.botão_form{
+display: flex; justify-content: space-between;
+}
+
+.formulario {
+background-color: #fff;
+padding: 30px;
+border-radius: 10px;
+width: 300px;
+margin-left:500px;
+height: 400px;
+}
+
+label {
+display: flex;
+margin-bottom: 10px;
+color: #333;
+}
+
+.input, textarea {
+width: 100%;
+padding: 10px;
+margin-bottom: 25px;
+border: 1px solid #ccc;
+border-radius: 4px;
+}
+
+.botão_enviar[type="submit"] {
+background-color: #4CAF50;
+color: white;
+}
+.botão_limpar[type="reset"] {
+background-color: #f44336;
+color: white;
+}
